@@ -4,4 +4,4 @@ This repository contains all of the resources for a Git Workshop originally give
 
 ## Authors / License
 
-Copyright Nick Charlton & Chris Hunt 2021. Licensed under the Creative Commons Attributation-ShareAlike 4.0. Which basically means you can reuse all it however you like, providing you mention where it came from.
+Copyright Nick Charlton & Chris Hunt 2012. Licensed under the Creative Commons Attributation-ShareAlike 4.0. Which basically means you can reuse all it however you like, providing you mention where it came from.
