@@ -50,6 +50,17 @@
 
 **Activity: Create a repo. Add some files. Commit.**
 
+## Remotes and GitHub
+
+* Now you have a repository up and working, it's worth knowing about "remotes".
+* A remote is a repository somewhere else. It can be on a service like GitHub
+  or BitBucket or just hosted on another machine somewhere.
+* Once configured, you can send all of your changes over to this remote
+  repository.
+* It's the key bit that allows you to collaborate with other people.
+
+**Activity: Create a public repo on GitHub. Add it as a remote. Push it up.**
+
 ## Branching and Merging
 
 * Say a requirement has changed. Or maybe you want to try something different
